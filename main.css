@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+#container{
+    background:rgb(59, 146, 228) ;
+}
+#container1{
+    background:rgb(214, 229, 245) ;
+}
+h1, a{
+
+    font-family: 'Chonburi', cursive;
+}
+p{
+    font-family: 'Noto Serif', serif;
+}
+div h2,h3{
+    text-align: center;
+    font-family: 'Chonburi', cursive;
+}
+#row1{
+    background: yellow;;
+   
+}
+#row2{
+    display: flex;
+    background: rgb(59, 146, 228);
+    border-bottom: solid 4px;
+}
+#coluna2 p{
+    height: 50px;
+    display: table-cell;
+    vertical-align:bottom;
+}
+#coluna3{
+    height: 50px;
+    background: rgb(59, 146, 228);
+}
+
+
+#central{
+    
+    padding-top: 30px;
+    background: url(../site_de_design_1/imagens/Fundo.jpg) center no-repeat  ;
+    background-size: 100%;
+    
+}
+#footer{
+    height: 50px;
+    padding-top: 10px;
+  
+    text-align: center;
+}
+#footer1{
+    height: 50px;
+    margin-top: 100px;
+  
+    text-align: center;
+}
+#mais{
+    padding:30px 30px 0px 30px;
+}
+#img1{
+    padding-top: 40px;
+}
+#mais2{
+    padding-top: 20px;
+}
