@@ -40,7 +40,7 @@ div h2,h3{
 #central{
     
     padding-top: 30px;
-    background: url(../site_de_design_1/imagens/Fundo.jpg) center no-repeat  ;
+    background: url(../projeto_design_1_fatec/imagens/Fundo.jpg) center no-repeat  ;
     background-size: 100%;
     
 }
@@ -64,4 +64,12 @@ div h2,h3{
 }
 #mais2{
     padding-top: 20px;
+}
+.nome{
+    margin: 20px 0px 0px 10px;
+}
+.trabalho{
+    width: 100%;
+    margin: 20px 20px 0px 0px ;
+    border-radius: 10px;
 }
